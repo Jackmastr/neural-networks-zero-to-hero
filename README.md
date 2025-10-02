@@ -1,3 +1,5 @@
+My implementation work for Andrej Karpathy's Neural Networks course: https://www.youtube.com/watch?v=VMj-3S1tku0&amp;list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ
+
 ## 1 Micrograd
 ### First Watch (2-3x speed)
 - Micrograd is all that's needed for NN - rest is optimization
